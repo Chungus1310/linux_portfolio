@@ -17,7 +17,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 
-[🎯 Live Demo](https://your-demo-link.com) • [📖 Documentation](https://github.com/chungus1310/linux_portfolio/wiki) • [🐛 Report Bug](https://github.com/chungus1310/linux_portfolio/issues) • [💡 Request Feature](https://github.com/chungus1310/linux_portfolio/issues)
+[📖 Documentation](https://github.com/chungus1310/linux_portfolio/wiki) • [🐛 Report Bug](https://github.com/chungus1310/linux_portfolio/issues) • [💡 Request Feature](https://github.com/chungus1310/linux_portfolio/issues)
 
 </div>
 
