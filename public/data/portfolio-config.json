@@ -1,0 +1,310 @@
+{
+  "personal": {
+    "name": "Chun",
+    "title": "Cybersecurity Specialist & Full-Stack Developer",
+    "bio": "Passionate cybersecurity professional and full-stack developer with expertise in penetration testing, secure coding, and building robust web applications. Dedicated to creating innovative solutions while maintaining the highest security standards.",
+    "location": "Global (Remote)",
+    "email": "chun@secure-dev.io",
+    "github": "Chungus1310",
+    "linkedin": "chun-cybersec",
+    "website": "https://chun-portfolio.dev",
+    "avatar": "/assets/images/avatar.jpg"
+  },
+  "navigation": {
+    "about": {
+      "type": "directory",
+      "name": "about",
+      "path": "/home/chun/portfolio/about",
+      "icon": "👤",
+      "permissions": "drwxr-xr-x",
+      "modified": "2024-12-15",
+      "children": {
+        "bio.txt": {
+          "type": "file",
+          "name": "bio.txt",
+          "path": "/home/chun/portfolio/about/bio.txt",
+          "icon": "📄",
+          "permissions": "-rw-r--r--",
+          "modified": "2024-12-15",
+          "size": "1.2KB",
+          "content": {
+            "type": "text",
+            "data": "Hello World! I'm Chun, a cybersecurity enthusiast and full-stack developer.\n\nMy journey began with a fascination for understanding how systems work and how to protect them. This curiosity led me to explore both the offensive and defensive sides of cybersecurity, eventually expanding into full-stack development to build secure, scalable applications.\n\nWhen I'm not hunting for vulnerabilities or crafting code, you'll find me:\n• Contributing to open-source security tools\n• Writing technical blogs about the latest threats\n• Participating in CTF competitions\n• Mentoring aspiring security professionals\n\nI believe in the philosophy of 'security by design' and strive to implement this principle in every project I work on.",
+            "metadata": {
+              "title": "About Chun",
+              "description": "Personal introduction and background",
+              "tags": ["personal", "introduction", "biography"]
+            }
+          }
+        },
+        "skills.json": {
+          "type": "file",
+          "name": "skills.json",
+          "path": "/home/chun/portfolio/about/skills.json",
+          "icon": "🛠️",
+          "permissions": "-rw-r--r--",
+          "modified": "2024-12-15",
+          "size": "3.5KB",
+          "content": {
+            "type": "json",
+            "data": "skills"
+          }
+        },
+        "experience.md": {
+          "type": "file",
+          "name": "experience.md",
+          "path": "/home/chun/portfolio/about/experience.md",
+          "icon": "💼",
+          "permissions": "-rw-r--r--",
+          "modified": "2024-12-15",
+          "size": "4.8KB",
+          "content": {
+            "type": "markdown",
+            "data": "# Professional Experience\n\n## Senior Cybersecurity Consultant\n**SecureFlow Technologies** | *2023 - Present*\n\n- Lead penetration testing engagements for Fortune 500 companies\n- Developed custom security automation tools reducing assessment time by 40%\n- Mentored junior security analysts and conducted security awareness training\n- Specialized in web application security, network penetration testing, and social engineering\n\n## Full-Stack Developer\n**TechNova Solutions** | *2022 - 2023*\n\n- Built secure web applications using React, Node.js, and PostgreSQL\n- Implemented OAuth 2.0 and JWT-based authentication systems\n- Conducted security code reviews and vulnerability assessments\n- Achieved 99.9% uptime across all deployed applications\n\n## Junior Security Analyst\n**CyberDefense Corp** | *2021 - 2022*\n\n- Monitored security events using SIEM tools (Splunk, QRadar)\n- Responded to security incidents and conducted forensic analysis\n- Developed custom detection rules and threat hunting queries\n- Participated in red team exercises and vulnerability assessments\n\n## Freelance Web Developer\n**Independent** | *2020 - 2021*\n\n- Developed custom websites and web applications for small businesses\n- Focused on secure coding practices and performance optimization\n- Implemented SSL/TLS certificates and security headers\n- Maintained 100% client satisfaction rate",
+            "metadata": {
+              "title": "Professional Experience",
+              "description": "Career history and achievements",
+              "tags": ["experience", "career", "professional"]
+            }
+          }
+        }
+      }
+    },
+    "projects": {
+      "type": "directory",
+      "name": "projects",
+      "path": "/home/chun/portfolio/projects",
+      "icon": "🚀",
+      "permissions": "drwxr-xr-x",
+      "modified": "2024-12-15",
+      "children": {
+        "web-development": {
+          "type": "directory",
+          "name": "web-development",
+          "path": "/home/chun/portfolio/projects/web-development",
+          "icon": "🌐",
+          "permissions": "drwxr-xr-x",
+          "modified": "2024-12-15",
+          "children": {
+            "secure-chat-app.json": {
+              "type": "file",
+              "name": "secure-chat-app.json",
+              "path": "/home/chun/portfolio/projects/web-development/secure-chat-app.json",
+              "icon": "💬",
+              "permissions": "-rw-r--r--",
+              "modified": "2024-12-15",
+              "size": "2.1KB",
+              "content": {
+                "type": "json",
+                "data": "project_secure_chat"
+              }
+            },
+            "vulnerability-scanner.json": {
+              "type": "file",
+              "name": "vulnerability-scanner.json",
+              "path": "/home/chun/portfolio/projects/web-development/vulnerability-scanner.json",
+              "icon": "🔍",
+              "permissions": "-rw-r--r--",
+              "modified": "2024-12-10",
+              "size": "1.9KB",
+              "content": {
+                "type": "json",
+                "data": "project_vuln_scanner"
+              }
+            }
+          }
+        },
+        "cybersecurity": {
+          "type": "directory",
+          "name": "cybersecurity",
+          "path": "/home/chun/portfolio/projects/cybersecurity",
+          "icon": "🛡️",
+          "permissions": "drwxr-xr-x",
+          "modified": "2024-12-15",
+          "children": {
+            "penetration-testing-toolkit.json": {
+              "type": "file",
+              "name": "penetration-testing-toolkit.json",
+              "path": "/home/chun/portfolio/projects/cybersecurity/penetration-testing-toolkit.json",
+              "icon": "🔧",
+              "permissions": "-rw-r--r--",
+              "modified": "2024-12-15",
+              "size": "2.5KB",
+              "content": {
+                "type": "json",
+                "data": "project_pentest_toolkit"
+              }
+            }
+          }
+        },
+        "open-source": {
+          "type": "directory",
+          "name": "open-source",
+          "path": "/home/chun/portfolio/projects/open-source",
+          "icon": "📖",
+          "permissions": "drwxr-xr-x",
+          "modified": "2024-12-15",
+          "children": {
+            "security-headers-checker.json": {
+              "type": "file",
+              "name": "security-headers-checker.json",
+              "path": "/home/chun/portfolio/projects/open-source/security-headers-checker.json",
+              "icon": "🔒",
+              "permissions": "-rw-r--r--",
+              "modified": "2024-12-15",
+              "size": "1.7KB",
+              "content": {
+                "type": "json",
+                "data": "project_headers_checker"
+              }
+            }
+          }
+        }
+      }
+    },
+    "contact": {
+      "type": "directory",
+      "name": "contact",
+      "path": "/home/chun/portfolio/contact",
+      "icon": "📧",
+      "permissions": "drwxr-xr-x",
+      "modified": "2024-12-15",
+      "children": {
+        "social-links.json": {
+          "type": "file",
+          "name": "social-links.json",
+          "path": "/home/chun/portfolio/contact/social-links.json",
+          "icon": "🔗",
+          "permissions": "-rw-r--r--",
+          "modified": "2024-12-15",
+          "size": "0.8KB",
+          "content": {
+            "type": "json",
+            "data": {
+              "github": {
+                "url": "https://github.com/Chungus1310",
+                "display": "@Chungus1310",
+                "icon": "🐙",
+                "description": "Open source projects and contributions"
+              },
+              "linkedin": {
+                "url": "https://linkedin.com/in/chun-cybersec",
+                "display": "/in/chun-cybersec",
+                "icon": "💼",
+                "description": "Professional network and experience"
+              },
+              "email": {
+                "url": "mailto:chun@secure-dev.io",
+                "display": "chun@secure-dev.io",
+                "icon": "📧",
+                "description": "Direct contact for opportunities"
+              },
+              "blog": {
+                "url": "https://chun-sec.blog",
+                "display": "chun-sec.blog",
+                "icon": "📝",
+                "description": "Technical articles and insights"
+              }
+            }
+          }
+        },
+        "resume.pdf": {
+          "type": "file",
+          "name": "resume.pdf",
+          "path": "/home/chun/portfolio/contact/resume.pdf",
+          "icon": "📄",
+          "permissions": "-rw-r--r--",
+          "modified": "2024-12-15",
+          "size": "245KB",
+          "content": {
+            "type": "pdf",
+            "data": "/assets/documents/chun-resume.pdf"
+          }
+        }
+      }
+    }
+  },
+  "theme": {
+    "colors": {
+      "primary": "#00FF41",
+      "secondary": "#39FF14",
+      "background": "#0D1117",
+      "surface": "#161B22",
+      "text": "#F0F6FC",
+      "textSecondary": "#8B949E",
+      "accent": "#FF6B35",
+      "warning": "#FFB800",
+      "error": "#FF4444",
+      "success": "#00FF41"
+    },
+    "fonts": {
+      "primary": "'JetBrains Mono', 'Fira Code', monospace",
+      "mono": "'Ubuntu Mono', 'Courier New', monospace"
+    },
+    "animations": {
+      "duration": {
+        "fast": 150,
+        "normal": 300,
+        "slow": 500
+      },
+      "easing": "cubic-bezier(0.4, 0, 0.2, 1)"
+    }
+  },
+  "commands": [
+    {
+      "command": "ls",
+      "description": "List directory contents",
+      "usage": "ls [directory]",
+      "action": "list",
+      "aliases": ["dir"]
+    },
+    {
+      "command": "cd",
+      "description": "Change directory",
+      "usage": "cd <directory>",
+      "action": "navigate"
+    },
+    {
+      "command": "cat",
+      "description": "Display file contents",
+      "usage": "cat <filename>",
+      "action": "display"
+    },
+    {
+      "command": "help",
+      "description": "Show available commands",
+      "usage": "help [command]",
+      "action": "help"
+    },
+    {
+      "command": "clear",
+      "description": "Clear terminal screen",
+      "usage": "clear",
+      "action": "clear"
+    },
+    {
+      "command": "theme",
+      "description": "Change theme",
+      "usage": "theme <light|dark>",
+      "action": "theme"
+    },
+    {
+      "command": "find",
+      "description": "Search for files or content",
+      "usage": "find <query>",
+      "action": "search"
+    },
+    {
+      "command": "contact",
+      "description": "Show contact information",
+      "usage": "contact",
+      "action": "contact"
+    },
+    {
+      "command": "download",
+      "description": "Download resume or documents",
+      "usage": "download <filename>",
+      "action": "download"
+    }
+  ]
+}

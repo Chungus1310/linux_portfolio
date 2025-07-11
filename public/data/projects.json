@@ -1,0 +1,349 @@
+{
+  "skills": [
+    {
+      "name": "JavaScript/TypeScript",
+      "category": "programming-languages",
+      "proficiency": 5,
+      "yearsOfExperience": 4,
+      "description": "Expert-level proficiency in modern JS/TS development, including ES6+, async/await, and advanced type systems."
+    },
+    {
+      "name": "Python",
+      "category": "programming-languages", 
+      "proficiency": 5,
+      "yearsOfExperience": 5,
+      "description": "Extensive experience in cybersecurity automation, web scraping, and backend development."
+    },
+    {
+      "name": "Bash/Shell Scripting",
+      "category": "programming-languages",
+      "proficiency": 4,
+      "yearsOfExperience": 4,
+      "description": "Advanced automation and system administration scripts for Linux environments."
+    },
+    {
+      "name": "Go",
+      "category": "programming-languages",
+      "proficiency": 3,
+      "yearsOfExperience": 2,
+      "description": "Security tools and high-performance backend services development."
+    },
+    {
+      "name": "C/C++",
+      "category": "programming-languages",
+      "proficiency": 3,
+      "yearsOfExperience": 3,
+      "description": "System-level programming and exploit development fundamentals."
+    },
+    {
+      "name": "Node.js",
+      "category": "frameworks-libraries",
+      "proficiency": 5,
+      "yearsOfExperience": 4,
+      "description": "Full-stack development with Express.js, real-time applications, and API design."
+    },
+    {
+      "name": "React",
+      "category": "frameworks-libraries",
+      "proficiency": 4,
+      "yearsOfExperience": 3,
+      "description": "Modern React development with hooks, context, and performance optimization."
+    },
+    {
+      "name": "Vue.js",
+      "category": "frameworks-libraries",
+      "proficiency": 3,
+      "yearsOfExperience": 2,
+      "description": "Component-based development and state management with Vuex."
+    },
+    {
+      "name": "Django/Flask",
+      "category": "frameworks-libraries",
+      "proficiency": 4,
+      "yearsOfExperience": 3,
+      "description": "Secure web application development and RESTful API design."
+    },
+    {
+      "name": "PostgreSQL",
+      "category": "databases",
+      "proficiency": 4,
+      "yearsOfExperience": 3,
+      "description": "Advanced SQL, performance optimization, and database security."
+    },
+    {
+      "name": "MongoDB",
+      "category": "databases",
+      "proficiency": 3,
+      "yearsOfExperience": 2,
+      "description": "NoSQL database design and aggregation pipelines."
+    },
+    {
+      "name": "Redis",
+      "category": "databases",
+      "proficiency": 3,
+      "yearsOfExperience": 2,
+      "description": "Caching strategies and session management."
+    },
+    {
+      "name": "Docker",
+      "category": "tools-platforms",
+      "proficiency": 4,
+      "yearsOfExperience": 3,
+      "description": "Containerization, multi-stage builds, and orchestration basics."
+    },
+    {
+      "name": "Git",
+      "category": "tools-platforms",
+      "proficiency": 5,
+      "yearsOfExperience": 5,
+      "description": "Advanced Git workflows, branching strategies, and collaboration."
+    },
+    {
+      "name": "Linux Administration",
+      "category": "tools-platforms",
+      "proficiency": 5,
+      "yearsOfExperience": 5,
+      "description": "System administration, security hardening, and automation."
+    },
+    {
+      "name": "Webpack",
+      "category": "tools-platforms",
+      "proficiency": 4,
+      "yearsOfExperience": 3,
+      "description": "Build optimization, code splitting, and development workflows."
+    },
+    {
+      "name": "Penetration Testing",
+      "category": "cybersecurity",
+      "proficiency": 5,
+      "yearsOfExperience": 4,
+      "description": "Web application, network, and wireless penetration testing methodologies.",
+      "certifications": ["CEH", "OSCP"]
+    },
+    {
+      "name": "Vulnerability Assessment",
+      "category": "cybersecurity", 
+      "proficiency": 5,
+      "yearsOfExperience": 4,
+      "description": "Automated and manual vulnerability assessment using industry-standard tools."
+    },
+    {
+      "name": "OWASP Top 10",
+      "category": "cybersecurity",
+      "proficiency": 5,
+      "yearsOfExperience": 4,
+      "description": "Deep understanding of web application security vulnerabilities and mitigations."
+    },
+    {
+      "name": "Burp Suite",
+      "category": "cybersecurity",
+      "proficiency": 5,
+      "yearsOfExperience": 4,
+      "description": "Advanced web application security testing and custom extension development."
+    },
+    {
+      "name": "Metasploit",
+      "category": "cybersecurity",
+      "proficiency": 4,
+      "yearsOfExperience": 3,
+      "description": "Exploit development and post-exploitation techniques."
+    },
+    {
+      "name": "Nmap",
+      "category": "cybersecurity",
+      "proficiency": 5,
+      "yearsOfExperience": 4,
+      "description": "Network discovery, port scanning, and script engine development."
+    },
+    {
+      "name": "Wireshark",
+      "category": "cybersecurity",
+      "proficiency": 4,
+      "yearsOfExperience": 3,
+      "description": "Network protocol analysis and traffic inspection."
+    },
+    {
+      "name": "AWS",
+      "category": "cloud-platforms",
+      "proficiency": 3,
+      "yearsOfExperience": 2,
+      "description": "EC2, S3, Lambda, and basic cloud security configurations."
+    },
+    {
+      "name": "DigitalOcean",
+      "category": "cloud-platforms",
+      "proficiency": 4,
+      "yearsOfExperience": 3,
+      "description": "VPS management, load balancing, and deployment automation."
+    }
+  ],
+  "project_secure_chat": {
+    "id": "secure-chat-app",
+    "name": "SecureChat Pro",
+    "description": "End-to-end encrypted real-time chat application with advanced security features",
+    "longDescription": "A production-ready secure chat application built with modern web technologies. Features include end-to-end encryption, secure file sharing, disappearing messages, and comprehensive audit logging. The application implements zero-knowledge architecture ensuring even the server cannot decrypt user messages.",
+    "technologies": ["TypeScript", "Node.js", "Socket.io", "React", "PostgreSQL", "Redis", "WebCrypto API"],
+    "category": "web-development",
+    "status": "completed",
+    "links": {
+      "github": "https://github.com/Chungus1310/secure-chat-pro",
+      "demo": "https://securechat.demo.com",
+      "documentation": "https://docs.securechat.demo.com"
+    },
+    "images": [
+      "/assets/projects/secure-chat/screenshot1.jpg",
+      "/assets/projects/secure-chat/screenshot2.jpg",
+      "/assets/projects/secure-chat/architecture.jpg"
+    ],
+    "features": [
+      "End-to-end encryption using AES-256-GCM",
+      "Perfect forward secrecy with key rotation",
+      "Secure file sharing with encrypted metadata",
+      "Disappearing messages with configurable timeouts",
+      "Multi-device synchronization",
+      "Comprehensive audit logging",
+      "Real-time typing indicators",
+      "Dark/light theme support",
+      "Mobile-responsive design"
+    ],
+    "challenges": [
+      "Implementing secure key exchange without compromising user experience",
+      "Managing encrypted message search functionality", 
+      "Optimizing performance for large group chats",
+      "Ensuring cross-browser compatibility for WebCrypto APIs"
+    ],
+    "achievements": [
+      "Zero security vulnerabilities in penetration testing",
+      "Sub-100ms message delivery latency",
+      "99.9% uptime over 6 months",
+      "Featured in cybersecurity blog for security implementation"
+    ],
+    "dateCreated": "2024-03-15",
+    "dateUpdated": "2024-12-01"
+  },
+  "project_vuln_scanner": {
+    "id": "vulnerability-scanner",
+    "name": "WebSecScan",
+    "description": "Automated web application vulnerability scanner with custom detection rules",
+    "longDescription": "A comprehensive web application security scanner that combines automated vulnerability detection with manual testing capabilities. The tool includes custom detection rules for the OWASP Top 10 and provides detailed remediation guidance for discovered vulnerabilities.",
+    "technologies": ["Python", "Flask", "Selenium", "BeautifulSoup", "SQLAlchemy", "Celery", "Redis"],
+    "category": "cybersecurity",
+    "status": "maintained",
+    "links": {
+      "github": "https://github.com/Chungus1310/websec-scan",
+      "documentation": "https://websec-scan.readthedocs.io"
+    },
+    "images": [
+      "/assets/projects/vuln-scanner/dashboard.jpg",
+      "/assets/projects/vuln-scanner/report.jpg"
+    ],
+    "features": [
+      "Automated crawling and vulnerability detection",
+      "OWASP Top 10 vulnerability scanning",
+      "Custom detection rule engine",
+      "Detailed vulnerability reports with PoC",
+      "Integration with popular CI/CD pipelines",
+      "RESTful API for programmatic access",
+      "Real-time scanning progress tracking",
+      "False positive management",
+      "Multi-target scanning support"
+    ],
+    "challenges": [
+      "Minimizing false positives while maintaining detection accuracy",
+      "Handling JavaScript-heavy single-page applications",
+      "Implementing efficient crawling for large web applications",
+      "Creating user-friendly vulnerability reports"
+    ],
+    "achievements": [
+      "Detected 0-day vulnerability in popular CMS",
+      "95% accuracy rate with minimal false positives", 
+      "Used by 500+ security professionals",
+      "Integrated into major security testing workflows"
+    ],
+    "dateCreated": "2024-01-20",
+    "dateUpdated": "2024-12-10"
+  },
+  "project_pentest_toolkit": {
+    "id": "penetration-testing-toolkit",
+    "name": "PenTest Arsenal",
+    "description": "Comprehensive penetration testing toolkit with automated reporting",
+    "longDescription": "A unified penetration testing framework that combines multiple security testing tools into a single platform. Features automated vulnerability assessment, exploitation modules, and professional report generation for streamlined penetration testing workflows.",
+    "technologies": ["Python", "Bash", "Nmap", "Metasploit", "Docker", "FastAPI", "Vue.js"],
+    "category": "cybersecurity",
+    "status": "in-progress",
+    "links": {
+      "github": "https://github.com/Chungus1310/pentest-arsenal"
+    },
+    "images": [
+      "/assets/projects/pentest-toolkit/interface.jpg",
+      "/assets/projects/pentest-toolkit/workflow.jpg"
+    ],
+    "features": [
+      "Integrated scanning and exploitation workflows",
+      "Automated report generation with executive summaries",
+      "Custom payload generation and encoding",
+      "Network mapping and service enumeration", 
+      "Web application testing modules",
+      "Post-exploitation framework integration",
+      "Multi-format report export (PDF, HTML, JSON)",
+      "Collaborative testing with team sharing",
+      "Compliance framework mapping (NIST, OWASP)"
+    ],
+    "challenges": [
+      "Integrating diverse security tools into unified workflow",
+      "Maintaining tool compatibility across updates",
+      "Creating intuitive interface for complex operations",
+      "Ensuring ethical use and preventing misuse"
+    ],
+    "achievements": [
+      "Reduced penetration testing time by 60%",
+      "Standardized reporting across security team",
+      "Implemented in enterprise security assessments",
+      "Open-sourced core modules for community benefit"
+    ],
+    "dateCreated": "2024-06-01",
+    "dateUpdated": "2024-12-15"
+  },
+  "project_headers_checker": {
+    "id": "security-headers-checker",
+    "name": "SecHeaders Analyzer",
+    "description": "Security headers analysis tool with compliance checking",
+    "longDescription": "A comprehensive security headers analysis tool that evaluates web applications against security best practices. Provides detailed analysis of HTTP security headers and offers remediation guidance for improving application security posture.",
+    "technologies": ["Go", "React", "Docker", "PostgreSQL", "GitHub Actions"],
+    "category": "open-source",
+    "status": "completed",
+    "links": {
+      "github": "https://github.com/Chungus1310/secheaders-analyzer",
+      "demo": "https://secheaders.tools"
+    },
+    "images": [
+      "/assets/projects/headers-checker/analysis.jpg",
+      "/assets/projects/headers-checker/report.jpg"
+    ],
+    "features": [
+      "Comprehensive security headers analysis",
+      "Compliance checking against security standards",
+      "Batch URL processing capabilities",
+      "Historical tracking and trend analysis",
+      "RESTful API for automation",
+      "Custom security policy validation",
+      "Integration with CI/CD pipelines",
+      "Detailed remediation recommendations",
+      "Export capabilities for compliance reporting"
+    ],
+    "challenges": [
+      "Handling diverse header configurations across platforms",
+      "Providing accurate compliance mapping",
+      "Optimizing for high-volume scanning",
+      "Creating actionable remediation guidance"
+    ],
+    "achievements": [
+      "1000+ GitHub stars within 6 months",
+      "Featured in security newsletters and blogs",
+      "Adopted by major organizations for compliance checking",
+      "Contributed to improved security practices industry-wide"
+    ],
+    "dateCreated": "2024-04-10",
+    "dateUpdated": "2024-11-30"
+  }
+}
