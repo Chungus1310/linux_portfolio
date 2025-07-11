@@ -20,6 +20,7 @@
 [📖 Documentation](https://github.com/chungus1310/linux_portfolio/wiki) • [🐛 Report Bug](https://github.com/chungus1310/linux_portfolio/issues) • [💡 Request Feature](https://github.com/chungus1310/linux_portfolio/issues)
 
 </div>
+<img width="1920" height="923" alt="{2998EE6F-3D3B-46D9-A280-8A0D97FC013B}" src="https://github.com/user-attachments/assets/36205f6a-ca33-4152-99d3-bec49a693a72" />
 
 ---
 
